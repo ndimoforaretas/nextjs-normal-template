@@ -9,8 +9,8 @@ This is a starter template for Next.js 14. It includes the following additional 
 
 ## Requirements
 
-- You need to create an account on [Clerk](https://clerk.com/) and create a new project to get your API keys.
-- You need to create a `.env.local` file in the root of the project and add the following environment variables:
+- An account on [Clerk](https://clerk.com/) and with a new project to get your API keys.
+- A `.env.local` file in the root of the project and add the following environment variables:
 
 ```bash
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = your_publishable_key;
